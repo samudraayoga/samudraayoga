@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @samudraayoga
-- 👀 I’m interested in sleeping
-- 🌱 I’m currently learning sleep 24/7
-- 💞️ I’m looking to collaborate on bed
-- 📫 How to reach me ... just text me on 082137971051
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: no need fun fact bout me
+![hehe] (https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXhyMTZqZnZscWp2eGdkNHBzN2FheHh0c2ZocmJzNXZwN2h1cDd5YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wr7oA0rSjnWuiLJOY5/giphy.gif)
+
+
+## Hi there, Samudra here!👋
+
+🔭- Ungraduate student of UPN "Veteran" Yogyakarta
+
+# Network Engineer
+# Computer Hardware
+# Software Dev
+
+💻- I'm currently learning [**React**](https://react.dev) Framework
+
 
 <!---
 samudraayoga/samudraayoga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
