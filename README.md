@@ -1,13 +1,13 @@
 ![hehe](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXhyMTZqZnZscWp2eGdkNHBzN2FheHh0c2ZocmJzNXZwN2h1cDd5YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wr7oA0rSjnWuiLJOY5/giphy.gif)
 
 
-## Hi there, Samudra here!👋
+# Hi there, Samudra here!👋
 
 🔭- Ungraduate student of UPN "Veteran" Yogyakarta
 
-# Network Engineer
-# Computer Hardware
-# Software Dev
+## Network Engineer
+## Computer Hardware
+## Software Dev
 
 💻- I'm currently learning [**React**](https://react.dev) Framework
 
