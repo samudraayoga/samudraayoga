@@ -3,10 +3,10 @@
 
 # Hi there, Samudra here!👋
 
-🔭- Ungraduate student of UPN "Veteran" Yogyakarta
+🔭- Freshgraduate student of UPN "Veteran" Yogyakarta
 
 ## Network Engineer
-## Computer Hardware
+## AI Enthusiast
 ## Software Dev
 
 💻- I'm currently learning [**React**](https://react.dev) Framework
