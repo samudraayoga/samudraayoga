@@ -5,12 +5,11 @@
 
 🔭- Freshgraduate student of UPN "Veteran" Yogyakarta
 
-## Network Engineer
+## Software Engineer
 ## AI Enthusiast
 ## Software Dev
 
-💻- I'm currently learning [**React**](https://react.dev) Framework
-
+💻- I'm currently learning Openclaw, and Hermes 
 
 <!---
 samudraayoga/samudraayoga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
