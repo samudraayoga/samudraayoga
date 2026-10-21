@@ -5,11 +5,11 @@
 
 🔭- Freshgraduate student of UPN "Veteran" Yogyakarta
 
-## Software Engineer
+## Fullstack dev
 ## AI Enthusiast
-## Software Dev
+## Software Engineer
 
-💻- I'm currently learning Openclaw, and Hermes 
+💻- I'm currently learning asp dotnet,and ruby on rails
 
 <!---
 samudraayoga/samudraayoga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
